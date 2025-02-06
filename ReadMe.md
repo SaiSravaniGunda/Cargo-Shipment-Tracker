@@ -22,7 +22,7 @@ To get started with this project, follow the steps below to set up both the fron
 
 1. **Clone the repository:**
    ```powershell
-   git clone https://github.com/yourusername/shipment-management.git
+   git clone https://github.com/SaiSravaniGunda/Cargo-Shipment-Tracker.git
    cd shipment-management
    ```
 
@@ -158,4 +158,4 @@ Watch the demo of the project here: [Cargo Shipment Management Demo](https://dri
 
 ### **Conclusion**
 This `README.md` provides a complete guide for setting up and running both the frontend and backend parts of the shipment management project.
-```
+
