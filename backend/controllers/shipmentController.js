@@ -24,13 +24,14 @@ const getShipmentById = async (req, res) => {
 
 
 const createShipment = async (req, res) => {
-  const { shipmentId, containerId, route, currentLocation, estimatedArrival } = req.body;
+  const { shipmentId, containerId, route, currentLocation,status, estimatedArrival } = req.body;
 
   try {
     const newShipment = new Shipment({
       shipmentId,
       containerId,
       route,
+      status,
       currentLocation,
       estimatedArrival,
     });

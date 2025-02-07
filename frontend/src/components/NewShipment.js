@@ -20,6 +20,7 @@ const NewShipment = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
+
       await axios.post("http://localhost:5000/api/shipment", {
         ...shipment,
         route: shipment.route.split(",").map((loc) => loc.trim()), 
