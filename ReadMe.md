@@ -1,6 +1,3 @@
-Here's the updated content for your `README.md` with the video demo link included:
-
-```markdown
 # Cargo Shipment Management
 
 This project includes a **frontend** and **backend** for shipment management. The frontend is a React application, and the backend is built with Node.js, Express, and MongoDB.
@@ -154,8 +151,4 @@ The following routes are available in the backend:
 
 Watch the demo of the project here: [Cargo Shipment Management Demo](https://drive.google.com/file/d/1nzBknf-KNES9weW6_VUXfy5ItpRiG02a/view?usp=sharing)
 
----
-
-### **Conclusion**
-This `README.md` provides a complete guide for setting up and running both the frontend and backend parts of the shipment management project.
 
